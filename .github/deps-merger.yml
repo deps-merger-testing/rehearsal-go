@@ -1,2 +1,4 @@
-mode: report
 require_checks: true
+mode: merge
+max_update_type: major
+agent_review: true
